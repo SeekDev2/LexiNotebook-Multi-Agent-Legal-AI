@@ -46,7 +46,7 @@ pip install -r requirements.txt
 ### 2. Run
 
 ```bash
-python lexinotebook.py
+python app.py
 ```
 
 The app launches locally and prints a public `share=True` URL you can open in any browser.
@@ -108,9 +108,7 @@ Native HTML collapsibles require zero JavaScript, render reliably inside Gradio'
 
 ---
 
-## License
 
-MIT License — free to use, modify, and distribute with attribution.
 
 ---
 
