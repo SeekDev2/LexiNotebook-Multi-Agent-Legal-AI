@@ -1,0 +1,18 @@
+# LexiNotebook Multi-Agent Legal AI
+# Author: Abdul Samad
+# Install with: pip install -r requirements.txt
+
+# Core UI
+gradio>=5.0.0
+
+# Google Gemini SDK
+google-genai>=1.0.0
+
+# IBM Docling — document ingestion & OCR
+docling>=2.0.0
+
+# Data validation (used for Pydantic schema definitions)
+pydantic>=2.0.0
+pandas
+numpy
+openpyxl
