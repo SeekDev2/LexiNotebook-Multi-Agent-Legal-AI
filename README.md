@@ -4,6 +4,8 @@
 
 LexiNotebook is a multi-agent AI system for legal document analysis. Upload contracts, legislation, or any legal document and get an instant structured summary, interactive mindmap, and a citation-grounded Q&A counsel — all powered by IBM Docling and Google Gemini 2.5 Flash.
 
+please note that i have updated frontend for vercel support
+
 ---
 
 ## Features
